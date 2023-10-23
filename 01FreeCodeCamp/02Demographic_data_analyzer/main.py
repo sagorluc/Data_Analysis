@@ -1,0 +1,3 @@
+from demographic_data_analyzer import demographic_data_analysis
+
+demographic_data_analysis()
